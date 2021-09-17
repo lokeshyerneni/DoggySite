@@ -4,12 +4,14 @@ A simple flutter app for ACM Nebula Coding Challenge
 ## Prerequisites
 
 ### Creating project and setting up Flutter
-Create a project on Flutter and download the extensions needed: Dart plugin and Flutter plugin
+___
+Create a project on Flutter and download the extensions needed: Dart plugin and Flutter plugin.  
+  
 In the case that Flutter isn't working, please check out this website and make sure to have the stable version of Flutter (2.5.0, at this moment): https://flutter.dev/docs/development/tools/vs-code. In the case that the user gets an older version of flutter, please run **flutter upgrade**.
 
 
 ### Initializing and running the project
-
+___
 #### Initialize project
 After flutter is installed, please run **flutter pub get** in the terminal of VSCode. 
 
