@@ -5,6 +5,11 @@ A simple flutter app for ACM Nebula Coding Challenge
 
 ### Creating project and setting up Flutter
 ___
+
+To download flutter onto your OS, please go to this link: https://flutter.dev/docs/get-started/install, download the zip file, and extract it.  
+  
+After that step, move the extracted filer wherever you want, add a new path to the environment variable (C:\\flutter\\bin), and then press apply.  
+  
 Create a project on Flutter and download the extensions needed: Dart plugin and Flutter plugin.  
   
 In the case that Flutter isn't working, please check out this website and make sure to have the stable version of Flutter (2.5.0, at this moment): https://flutter.dev/docs/development/tools/vs-code. In the case that the user gets an older version of flutter, please run **flutter upgrade**.
@@ -13,7 +18,9 @@ In the case that Flutter isn't working, please check out this website and make s
 ### Initializing and running the project
 ___
 #### Initialize project
-After flutter is installed, please run **flutter pub get** in the terminal of VSCode. 
+To clone the project, please run ```git clone https://github.com/lokeshyerneni/DoggySite.git```  
+  
+After flutter is installed and the project is done closing, please run **flutter pub get** in the terminal of VSCode. 
 
 #### Run project
 After that is done, find the **lib/main.dart** file and open it. Once it is opened, there should be three options: **Run | Debug | Profile**. Please click **Debug** and it will get the project running. In the case that there are no three buttons, find the play button near the top right, click on the drop-down menu, and select **Start Debugging**.
