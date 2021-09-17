@@ -1,0 +1,112 @@
+[
+    {
+        "name":"Jack",
+        "age":7, 
+        "breed":"Corgi",
+        "category": "Herding dogs",
+        "description":"Very ecstatic when you return from home; instances where it jumped over the fence in happiness",
+        "photo":"https://media.istockphoto.com/photos/welsh-corgi-pembroke-puppy-take-a-look-low-angle-view-picture-id1263548976?b=1&k=20&m=1263548976&s=170667a&w=0&h=Eu8hzFL-f9smj_bx3i-_q1nuMm4BO4jdEF5LhC_6wJA="
+    },
+
+    {
+        "name":"Romeo",
+        "age":15, 
+        "breed":"Poodle",
+        "category":"Non-sporting dogs",
+        "description":"Subdued, very loyal, attached to the owner",
+        "photo":"https://images.unsplash.com/photo-1614261812340-5ee9a3ed33a3?ixid=MnwxMjA3fDB8MHxzZWFyY2h8Nnx8cG9vZGxlfGVufDB8fDB8fA%3D%3D&ixlib=rb-1.2.1&auto=format&fit=crop&w=1200&q=60"
+    },
+
+    {
+        "name":"Juliet",
+        "age":6, 
+        "breed":"German Shepherd",
+        "category":"Herding dogs",
+        "description":"Very ecstatic when you return from home; instances where it jumped over the fence in happiness that the owner returned from home",
+        "photo":"https://rukminim1.flixcart.com/image/1100/1100/k5zn9u80/pet-collar-harness/z/g/g/good-quality-combo-of-red-dog-body-cross-with-red-dog-collar-original-imafz4bpzy2ykugm.jpeg"
+    },
+
+    {
+        "name":"Caleb",
+        "age":10, 
+        "breed":"Shiba",
+        "category":"Non-sporting dogs",
+        "description":"Female dog and human magnet ;), very energetic, and barks a lot",
+        "photo":"https://images.unsplash.com/photo-1567225591450-06036b3392a6?ixid=MnwxMjA3fDB8MHxzZWFyY2h8Mnx8c2hpYmF8ZW58MHx8MHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=1200&q=60"
+    
+    },
+
+    {
+        "name":"Griff",
+        "age":5, 
+        "breed":"Chihuahua",
+        "category":"Toy dogs",
+        "description":"Also a chick magnet, very small, and loves playing outside",
+        "photo":"https://media.istockphoto.com/photos/chihuahua-massage-picture-id1287236784?b=1&k=20&m=1287236784&s=170667a&w=0&h=oOhPlL_eFQkj3UeGUPKDP9TdCv4eKG9FVJQTqIpzHtc="
+    },
+
+    {
+        "name":"Albert",
+        "age":15,
+        "breed":"Corgi",
+        "category":"Herding dogs",
+        "description":"Playful and very creative with his actions",
+        "photo":"https://media.istockphoto.com/photos/portrait-young-woman-with-laughing-corgi-puppy-nature-background-picture-id1276788283?b=1&k=20&m=1276788283&s=170667a&w=0&h=X3dRalkRRGigR2q58t19R8U89CFjmxlRwWC4Y0sPbD8="
+    },
+
+    {
+        "name":"King",
+        "age":15, 
+        "breed":"Poodle",
+        "category": "Non-sporting Dogs",
+        "description":"Very ecstatic when you return from home; instances where it jumped over the fence in happiness",
+        "photo":"https://media.istockphoto.com/photos/a-toy-poodle-resting-on-floor-picture-id1179179656?b=1&k=20&m=1179179656&s=170667a&w=0&h=8wBxhVJWZudmNd80hgGiAu37Gw8a1U2mtUrNrn4Dksg="
+    },
+
+    {
+        "name":"Bear",
+        "age":5, 
+        "breed":"Chihuahua",
+        "category":"Non-sporting dogs",
+        "description":"Subdued, very loyal, attached to the owner",
+        "photo":"https://media.istockphoto.com/photos/running-chihuahua-picture-id114390419?b=1&k=20&m=114390419&s=170667a&w=0&h=ThJ-92FTAZabroGMtACMwfQDfbNTfIZRsxNLzDu755g="
+    },
+
+    {
+        "name":"Jasper",
+        "age":10, 
+        "breed":"German Shepherd",
+        "category":"Herding dogs",
+        "description":"Very ecstatic when you return from home; instances where it jumped over the fence in happiness that the owner returned from home",
+        "photo":"https://media.istockphoto.com/photos/german-shepherd-dog-in-action-on-beach-picture-id1208995643?b=1&k=20&m=1208995643&s=170667a&w=0&h=zF-E2CnbANFzNx4sIJd_Aq9y8CUfTt2liKlvhEpfkFo="
+    },
+
+    {
+        "name":"Cash",
+        "age":6, 
+        "breed":"Shiba",
+        "category":"Hound dogs",
+        "description":"Female dog and human magnet ;), very energetic, and barks a lot",
+        "photo":"https://images.unsplash.com/photo-1618173745276-71981719c0ce?ixid=MnwxMjA3fDB8MHxzZWFyY2h8NXx8c2hpYmF8ZW58MHx8MHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=1200&q=60"
+    
+    },
+
+    {
+        "name":"Homie",
+        "age":15, 
+        "breed":"Chihuahua",
+        "category":"Toy dogs",
+        "description":"Also a chick magnet, very small, and loves playing outside",
+        "photo":"https://images.unsplash.com/photo-1494205577727-d32e58564756?ixid=MnwxMjA3fDB8MHxzZWFyY2h8MXx8Y2hpaHVhaHVhfGVufDB8fDB8fA%3D%3D&ixlib=rb-1.2.1&auto=format&fit=crop&w=1200&q=60"
+    },
+
+    {
+        "name":"Charles",
+        "age":7,
+        "breed":"German Shepherd",
+        "category":"Terrier dogs",
+        "description":"Playful and very creative with his actions",
+        "photo":"https://media.istockphoto.com/photos/happy-young-woman-playing-with-her-dog-on-the-grass-in-park-picture-id1252694470?b=1&k=20&m=1252694470&s=170667a&w=0&h=4pURHYat8iInvIExE3RhcAv154k4FVtEx_EBjosYVUg="
+    }
+
+]
