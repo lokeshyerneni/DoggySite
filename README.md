@@ -20,7 +20,7 @@ ___
 #### Initialize project
 To clone the project, please run ```git clone https://github.com/lokeshyerneni/DoggySite.git```  
   
-After flutter is installed and the project is done closing, please run **flutter pub get** in the terminal of VSCode. 
+After flutter is installed and the project is done initializing, please run **flutter pub get** in the terminal of VSCode or select "Get Packages" from a popup on bottom right. 
 
 #### Run project
 After that is done, find the **lib/main.dart** file and open it. Once it is opened, there should be three options: **Run | Debug | Profile**. Please click **Debug** and it will get the project running. In the case that there are no three buttons, find the play button near the top right, click on the drop-down menu, and select **Start Debugging**.
