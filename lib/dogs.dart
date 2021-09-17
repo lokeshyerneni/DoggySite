@@ -35,7 +35,7 @@ class Dogs extends StatefulWidget {
 
 class _DogsState extends State<Dogs> {
   Future<List<Dog>> readJsonData() async {
-    final jsonData = await rootBundle.rootBundle.loadString("dogs.json");
+    final jsonData = await rootBundle.rootBundle.loadString("assets/dogs.json");
     final list = json.decode(jsonData) as List<dynamic>;
 
     return list.map((e) => Dog.fromJson(e)).toList();
