@@ -27,11 +27,9 @@ After scrolling down from the carousel, the user is shown categories of both bre
 ---
 
 #### Favoriting a Dog
----
 In the area where all dogs are shown, each card has a heart at the top right. When the user clicks on the heart, the heart becomes completely filled and the dog is added to the database (list, in this instance). On the other hand, when the user clicks on the heart again, the heart loses its fill and the dog is removed from the database (list, in this instance).
 
 #### Viewing the favorited dogs
----
 To view the dogs, there is a side navigation bar located at top left, that allows the user to navigate through different pages. Select the "My Favorite Dogs" section and a list of dogs that you selected will be shown. When clicked, the Card will then display information that the user wants.
 
 ### Buying the dog
